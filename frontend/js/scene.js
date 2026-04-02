@@ -22,7 +22,7 @@ const SPA_THROAT_DEBUG_YELLOW_TOP_PAD = 0.01;
 
 // Blue = duplicate throat void locked to pool wall height / coping underside.
 const SPA_THROAT_DEBUG_BLUE_COLOR = 0x00b7ff;
-const SPA_THROAT_DEBUG_BLUE_DEPTH = 1.20;
+const SPA_THROAT_DEBUG_BLUE_DEPTH = 0.17;
 const SPA_THROAT_DEBUG_BLUE_BOTTOM_PAD = 0.01;
 const SPA_THROAT_DEBUG_BLUE_TOP_PAD = 0.01;
 
