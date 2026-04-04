@@ -29,7 +29,7 @@ const SPA_THROAT_DEBUG_BLUE_TOP_PAD = 0.01;
 // Independent throat shortening along the wall (positive values shrink).
 const SPA_THROAT_YELLOW_LENGTH_SHRINK = 0.02;
 const SPA_THROAT_BLUE_LENGTH_SHRINK = 0.00;
-const SPA_THROAT_BLUE_LENGTH_EXTRA = 0.00; // positive value extends blue throat further along wall
+const SPA_THROAT_BLUE_LENGTH_EXTRA = 0.05; // positive value extends blue throat further along wall
 
 function getPoolFootprintWorldPts(poolGroup) {
   const outerPts = poolGroup?.userData?.outerPts;
